@@ -21,12 +21,12 @@ public class CommentsDAOTest {
 	 * 测试增加评论
 	 */
 	public void add() {
-		c.setAuthor("chenyan");
+		c.setAuthor("CandyChen");
 		c.setCid(29);
-		c.setMail("mail");
+		c.setMail("779837984@qq.com");
 		c.setAuthorId(29);
-		c.setText("陈艳你好");
-		c.setUrl("chenyanyan");
+		c.setText("博文超级棒");
+		c.setUrl("url");
 		c.setOwnerId(29);
 		cd.add(c);
 		System.out.println(c.getAuthor());
