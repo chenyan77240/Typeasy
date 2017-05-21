@@ -1,0 +1,8 @@
+title: Typeasy
+description: Typesay is web software you can use to create a blog which is simple and clean.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
